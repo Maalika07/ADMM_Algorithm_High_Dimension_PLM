@@ -1,9 +1,5 @@
 # Application of the ADMM Algorithm for a High-Dimensional Partially Linear Model
-## **Team Members:** 
-1. Kiruthika (CB.SC.U4AIE24329) 
-2. Mithul Pranav (CB.SC.U4AIE24331)
-3. Maalika P (CB.SC.U4AIE24332)
-4. Rithan S (CB.SC.U4AIE24348)
+
 
 ## Introduction
 
